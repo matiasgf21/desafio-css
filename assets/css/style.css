@@ -1,0 +1,120 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    
+}
+
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.padrequenovafuncionar *{
+   
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+
+
+
+.contactos{
+    border: 1px solid #BEC1BB;
+   margin:0;
+   padding: 0; 
+   width: 80%;
+   font-family: "Roboto", sans-serif;;
+   border-bottom: 1px solid #BEC1BB;
+  align-items: center;
+   
+}
+
+.contactos button{
+    width: 50%;
+    height: 90%;
+    
+    margin-top: 25%;
+    margin-bottom: 25%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    
+    
+}
+
+
+.contactos h3{
+    font-weight: 400;
+   font-style: normal;
+   margin-right: 15%;
+   margin-left: 0;
+   width: 50%;
+   flex-direction: column;
+justify-content: center;
+   
+}
+
+
+
+
+
+p{
+    
+    width: 100%;
+    height: 30%;
+    font-size:x-small;
+    color: #BEC1BB;
+    padding: 0;
+    margin: 0;
+   
+    
+}
+
+span{
+    color:#949494;
+    
+}
+
+
+.contactos img{
+    
+    width: 13%;
+    height: 30%;
+    border-radius: 50%;
+}
+
+button{
+    color: white;
+    background-color: #A491D2;
+    border-color: white;
+    
+
+}
+
+
+
+
+
+ .imagen img{
+    width: 50%;
+    height: 30%;
+    align-items: center;
+    
+
+
+ }
+
+.imagen h1{
+    color: #1B1F21;
+   font-size:250%;
+   align-items: center;
+}
+
+.imagen h4{
+    color: #1B1F21;
+    width: 450px;
+}
